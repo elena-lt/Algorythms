@@ -1,4 +1,4 @@
-package org.example
+package org.example.strings
 
 /**
  * Given a valid (IPv4) IP address, return a defanged version of that IP address.
