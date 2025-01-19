@@ -1,8 +1,5 @@
 package strings
 
-import jdk.internal.org.jline.utils.Colors.s
-import java.math.BigInteger
-
 /**
  * Given two binary strings a and b, return their sum as a binary string.
  *
