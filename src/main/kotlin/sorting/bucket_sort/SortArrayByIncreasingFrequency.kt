@@ -1,4 +1,4 @@
-package arrays
+package sorting.bucket_sort
 
 /**
  * Given an array of integers nums, sort the array in increasing order based on the frequency of the values. I
